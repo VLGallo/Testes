@@ -1,0 +1,17 @@
+{
+  "name": "primeiro_projeto",
+  "version": "1.0.0",
+  "description": "Aprendendo Cypress na Alura",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Vanessa Gallo",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^11.1.0"
+  },
+  "devDependencies": {
+    "mochawesome": "^7.1.3"
+  }
+}
